@@ -1,0 +1,14 @@
+{
+    "menu_item": [
+      {
+        "label": "Blog",
+        "visible": true,
+        "path": "/blog"
+      },
+      {
+        "label": "Talks",
+        "visible": false,
+        "path": "/talks"
+      }
+    ]
+  }
