@@ -9,9 +9,10 @@ type Props = {
 }
 
 export default function Index({ content }: Props) {
+
   return (
     <>
-      <h1>MyFirstBlog</h1>
+      <h1>MyFirstBlog Index Page with an Error</h1>
       <ReactMarkdown source={content} />
     </>
   )
