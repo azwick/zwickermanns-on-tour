@@ -2,3 +2,5 @@
 label: Testitest
 hide_body: true
 fields: []
+pages:
+- content/Test Me.md
